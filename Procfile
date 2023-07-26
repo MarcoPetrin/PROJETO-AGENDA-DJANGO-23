@@ -1,0 +1,1 @@
+web: gunicorn PROJETO-AGENDA-DJANGO-23.wsgi -- logi-file - 

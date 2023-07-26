@@ -7,7 +7,9 @@ Django==4.2.3
 fabric==3.1.0
 fake==0.8
 Faker==19.1.0
+gunicorn==21.2.0
 invoke==2.2.0
+packaging==23.1
 paramiko==3.2.0
 Pillow==10.0.0
 pycparser==2.21
